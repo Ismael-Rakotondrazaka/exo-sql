@@ -66,7 +66,7 @@ VALUES (
         'NDREMA',
         'Bevazaha',
         '1986-01-05',
-        'Ministre'
+        'Dentise'
     );
 INSERT INTO train (codet, design, couleur, nbr_place, frais)
 VALUES (
