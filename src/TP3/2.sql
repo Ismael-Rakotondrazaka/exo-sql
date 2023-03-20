@@ -1,0 +1,3 @@
+SELECT *
+FROM voyageur
+WHERE YEAR(CURRENT_DATE) - YEAR(datenais) < 18;
